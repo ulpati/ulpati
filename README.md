@@ -11,8 +11,8 @@
 
 <h3>2023</h3>
 
-- [File organizer](https://github.com/ulpati/file_organizer) ---> Python
-- [Travel](https://github.com/ulpati/psql_travel) ---> PostgreSQL
+- [File organizer](https://github.com/ulpati/s2i_datascience/tree/main/file_organizer) ---> Python
+- [Travel](https://github.com/ulpati/s2i_datascience/tree/main/psql_travel) ---> PostgreSQL
 
 <h3>2022</h3>
 
