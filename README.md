@@ -11,12 +11,12 @@
 
 <h3>2024</h3>
 
-<h5>freeCodeCamp's Certifications</h5>
+<h4>freeCodeCamp's Certifications</h4>
 
 - [Scientific Computing with Python Certification](https://github.com/ulpati/free_code_camp/tree/main/scientific_computing)
 <h3>2023</h3>
 
-<h5>s2i Data Science</h5>
+<h4>s2i Data Science</h4>
 
 - [File organizer](https://github.com/ulpati/s2i_datascience/tree/main/file_organizer) ---> Python
 - [Travel](https://github.com/ulpati/s2i_datascience/tree/main/psql_travel) ---> PostgreSQL
