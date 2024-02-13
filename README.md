@@ -9,7 +9,14 @@
 
 <h2>👨‍💻 Progetti </h2>
 
+<h3>2024</h3>
+
+<h5>freeCodeCamp's Certifications</h5>
+
+- [Scientific Computing with Python Certification](https://github.com/ulpati/free_code_camp/tree/main/scientific_computing)
 <h3>2023</h3>
+
+<h5>s2i Data Science</h5>
 
 - [File organizer](https://github.com/ulpati/s2i_datascience/tree/main/file_organizer) ---> Python
 - [Travel](https://github.com/ulpati/s2i_datascience/tree/main/psql_travel) ---> PostgreSQL
