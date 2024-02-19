@@ -13,6 +13,7 @@
 
 <h4>freeCodeCamp's Certifications</h4>
 
+- [Data Analysis with Python Certification](https://github.com/ulpati/free_code_camp/tree/main/data_analysis)
 - [Scientific Computing with Python Certification](https://github.com/ulpati/free_code_camp/tree/main/scientific_computing)
 <h3>2023</h3>
 
