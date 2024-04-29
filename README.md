@@ -11,6 +11,10 @@
 
 <h3>2024</h3>
 
+<h4>s2i Data Science</h4>
+
+- [Data Manipulation and Visualization](https://github.com/ulpati/s2i_datascience/tree/main/data_vis) ---> Python
+
 <h4>freeCodeCamp's Certifications</h4>
 
 - [Data Analysis with Python Certification](https://github.com/ulpati/free_code_camp/tree/main/data_analysis)
