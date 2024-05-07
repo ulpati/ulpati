@@ -13,6 +13,8 @@
 
 <h4>s2i Data Science</h4>
 
+- [Machine Learning](https://github.com/ulpati/s2i_datascience/tree/main/machine_learning) ---> Python
+
 - [Data Manipulation and Visualization](https://github.com/ulpati/s2i_datascience/tree/main/data_vis) ---> Python
 
 <h4>freeCodeCamp's Certifications</h4>
