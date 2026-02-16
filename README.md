@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm ulpati</h1>
 
 <p align="center">
-  Currently working in <strong>Information Security</strong>. Passionate about cybersecurity, machine learning, automation, and building tools that solve real-world problems.
+  Currently working in <strong>Application Security</strong>. Passionate about cybersecurity, machine learning, automation, and building tools that solve real-world problems.
 </p>
 
 ---
 
 ## 💼 Current Role
 
-**Information Security Junior**
+**Application Security Associate**
 - 🔒 Application security and vulnerability management
 - 🛡️ Collaboration with development teams on secure software practices
 - 🔍 Security assessment and risk analysis
